@@ -1,0 +1,20 @@
+{
+  "name": "0_60_Wepy_Mock_API",
+  "version": "1.0.0",
+  "description": "a demo of wepy mock api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancn21th/0_60_Wepy_Mock_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancn21th/0_60_Wepy_Mock_API/issues"
+  },
+  "homepage": "https://github.com/fancn21th/0_60_Wepy_Mock_API#readme"
+}
