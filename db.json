@@ -40,165 +40,165 @@
         },
         "unreadCount": 1
     },
-      {
-          "id": 20451,
-          "createdDate": 1534822483000,
-          "lastModifiedDate": 1534822483000,
-          "user1": {
-              "id": 20701,
-              "createdDate": 1530798323000,
-              "lastModifiedDate": 1534822290000,
-              "username": "99vmwj8vb",
-              "email": "neil.wang@okchem.com",
-              "companyName": "来易网络科技（武汉）有限公司",
-              "displayName": "Neil Wang"
-          },
-          "user2": {
-              "id": 5,
-              "createdDate": 1474541817000,
-              "lastModifiedDate": 1534821683000,
-              "username": "OKCHEM",
-              "email": "info@okchem.com.neil",
-              "companyName": null,
-              "countryName": "China",
-              "bizUsername": "OKCHEM",
-              "displayName": "OKCHEM"
-          },
-          "user1MessageStatus": {
-              "isRead": true,
-              "isDeleted": false
-          },
-          "user2MessageStatus": {
-              "isRead": false,
-              "isDeleted": false
-          },
-          "lastUnreadMsg": {
-              "id": 20801,
-              "createdDate": 1534822483000,
-              "lastModifiedDate": 1534822483000,
-              "content": "buyer: sent by neil"
-          },
-          "unreadCount": 1
+    {
+      "id": 20451,
+      "createdDate": 1534822483000,
+      "lastModifiedDate": 1534822483000,
+      "user1": {
+          "id": 20701,
+          "createdDate": 1530798323000,
+          "lastModifiedDate": 1534822290000,
+          "username": "99vmwj8vb",
+          "email": "neil.wang@okchem.com",
+          "companyName": "来易网络科技（武汉）有限公司",
+          "displayName": "Neil Wang"
       },
-      {
-          "id": 20451,
-          "createdDate": 1534822483000,
-          "lastModifiedDate": 1534822483000,
-          "user1": {
-              "id": 20701,
-              "createdDate": 1530798323000,
-              "lastModifiedDate": 1534822290000,
-              "username": "99vmwj8vb",
-              "email": "neil.wang@okchem.com",
-              "companyName": "来易网络科技（武汉）有限公司",
-              "displayName": "Neil Wang"
-          },
-          "user2": {
-              "id": 5,
-              "createdDate": 1474541817000,
-              "lastModifiedDate": 1534821683000,
-              "username": "OKCHEM",
-              "email": "info@okchem.com.neil",
-              "companyName": null,
-              "countryName": "China",
-              "bizUsername": "OKCHEM",
-              "displayName": "OKCHEM"
-          },
-          "user1MessageStatus": {
-              "isRead": true,
-              "isDeleted": false
-          },
-          "user2MessageStatus": {
-              "isRead": false,
-              "isDeleted": false
-          },
-          "lastUnreadMsg": {
-              "id": 20801,
-              "createdDate": 1534822483000,
-              "lastModifiedDate": 1534822483000,
-              "content": "buyer: sent by neil"
-          },
-          "unreadCount": 1
+      "user2": {
+          "id": 5,
+          "createdDate": 1474541817000,
+          "lastModifiedDate": 1534821683000,
+          "username": "OKCHEM",
+          "email": "info@okchem.com.neil",
+          "companyName": null,
+          "countryName": "China",
+          "bizUsername": "OKCHEM",
+          "displayName": "OKCHEM"
       },
-      {
-          "id": 20451,
-          "createdDate": 1534822483000,
-          "lastModifiedDate": 1534822483000,
-          "user1": {
-              "id": 20701,
-              "createdDate": 1530798323000,
-              "lastModifiedDate": 1534822290000,
-              "username": "99vmwj8vb",
-              "email": "neil.wang@okchem.com",
-              "companyName": "来易网络科技（武汉）有限公司",
-              "displayName": "Neil Wang"
-          },
-          "user2": {
-              "id": 5,
-              "createdDate": 1474541817000,
-              "lastModifiedDate": 1534821683000,
-              "username": "OKCHEM",
-              "email": "info@okchem.com.neil",
-              "companyName": null,
-              "countryName": "China",
-              "bizUsername": "OKCHEM",
-              "displayName": "OKCHEM"
-          },
-          "user1MessageStatus": {
-              "isRead": true,
-              "isDeleted": false
-          },
-          "user2MessageStatus": {
-              "isRead": false,
-              "isDeleted": false
-          },
-          "lastUnreadMsg": {
-              "id": 20801,
-              "createdDate": 1534822483000,
-              "lastModifiedDate": 1534822483000,
-              "content": "buyer: sent by neil"
-          },
-          "unreadCount": 1
+      "user1MessageStatus": {
+          "isRead": true,
+          "isDeleted": false
       },
-      {
-          "id": 20451,
+      "user2MessageStatus": {
+          "isRead": false,
+          "isDeleted": false
+      },
+      "lastUnreadMsg": {
+          "id": 20801,
           "createdDate": 1534822483000,
           "lastModifiedDate": 1534822483000,
-          "user1": {
-              "id": 20701,
-              "createdDate": 1530798323000,
-              "lastModifiedDate": 1534822290000,
-              "username": "99vmwj8vb",
-              "email": "neil.wang@okchem.com",
-              "companyName": "来易网络科技（武汉）有限公司",
-              "displayName": "Neil Wang"
-          },
-          "user2": {
-              "id": 5,
-              "createdDate": 1474541817000,
-              "lastModifiedDate": 1534821683000,
-              "username": "OKCHEM",
-              "email": "info@okchem.com.neil",
-              "companyName": null,
-              "countryName": "China",
-              "bizUsername": "OKCHEM",
-              "displayName": "OKCHEM"
-          },
-          "user1MessageStatus": {
-              "isRead": true,
-              "isDeleted": false
-          },
-          "user2MessageStatus": {
-              "isRead": false,
-              "isDeleted": false
-          },
-          "lastUnreadMsg": {
-              "id": 20801,
-              "createdDate": 1534822483000,
-              "lastModifiedDate": 1534822483000,
-              "content": "buyer: sent by neil"
-          },
-          "unreadCount": 1
-      }
+          "content": "buyer: sent by neil"
+      },
+      "unreadCount": 1
+    },
+    {
+      "id": 20451,
+      "createdDate": 1534822483000,
+      "lastModifiedDate": 1534822483000,
+      "user1": {
+          "id": 20701,
+          "createdDate": 1530798323000,
+          "lastModifiedDate": 1534822290000,
+          "username": "99vmwj8vb",
+          "email": "neil.wang@okchem.com",
+          "companyName": "来易网络科技（武汉）有限公司",
+          "displayName": "Neil Wang"
+      },
+      "user2": {
+          "id": 5,
+          "createdDate": 1474541817000,
+          "lastModifiedDate": 1534821683000,
+          "username": "OKCHEM",
+          "email": "info@okchem.com.neil",
+          "companyName": null,
+          "countryName": "China",
+          "bizUsername": "OKCHEM",
+          "displayName": "OKCHEM"
+      },
+      "user1MessageStatus": {
+          "isRead": true,
+          "isDeleted": false
+      },
+      "user2MessageStatus": {
+          "isRead": false,
+          "isDeleted": false
+      },
+      "lastUnreadMsg": {
+          "id": 20801,
+          "createdDate": 1534822483000,
+          "lastModifiedDate": 1534822483000,
+          "content": "buyer: sent by neil"
+      },
+      "unreadCount": 1
+    },
+    {
+      "id": 20451,
+      "createdDate": 1534822483000,
+      "lastModifiedDate": 1534822483000,
+      "user1": {
+          "id": 20701,
+          "createdDate": 1530798323000,
+          "lastModifiedDate": 1534822290000,
+          "username": "99vmwj8vb",
+          "email": "neil.wang@okchem.com",
+          "companyName": "来易网络科技（武汉）有限公司",
+          "displayName": "Neil Wang"
+      },
+      "user2": {
+          "id": 5,
+          "createdDate": 1474541817000,
+          "lastModifiedDate": 1534821683000,
+          "username": "OKCHEM",
+          "email": "info@okchem.com.neil",
+          "companyName": null,
+          "countryName": "China",
+          "bizUsername": "OKCHEM",
+          "displayName": "OKCHEM"
+      },
+      "user1MessageStatus": {
+          "isRead": true,
+          "isDeleted": false
+      },
+      "user2MessageStatus": {
+          "isRead": false,
+          "isDeleted": false
+      },
+      "lastUnreadMsg": {
+          "id": 20801,
+          "createdDate": 1534822483000,
+          "lastModifiedDate": 1534822483000,
+          "content": "buyer: sent by neil"
+      },
+      "unreadCount": 1
+    },
+    {
+      "id": 20451,
+      "createdDate": 1534822483000,
+      "lastModifiedDate": 1534822483000,
+      "user1": {
+          "id": 20701,
+          "createdDate": 1530798323000,
+          "lastModifiedDate": 1534822290000,
+          "username": "99vmwj8vb",
+          "email": "neil.wang@okchem.com",
+          "companyName": "来易网络科技（武汉）有限公司",
+          "displayName": "Neil Wang"
+      },
+      "user2": {
+          "id": 5,
+          "createdDate": 1474541817000,
+          "lastModifiedDate": 1534821683000,
+          "username": "OKCHEM",
+          "email": "info@okchem.com.neil",
+          "companyName": null,
+          "countryName": "China",
+          "bizUsername": "OKCHEM",
+          "displayName": "OKCHEM"
+      },
+      "user1MessageStatus": {
+          "isRead": true,
+          "isDeleted": false
+      },
+      "user2MessageStatus": {
+          "isRead": false,
+          "isDeleted": false
+      },
+      "lastUnreadMsg": {
+          "id": 20801,
+          "createdDate": 1534822483000,
+          "lastModifiedDate": 1534822483000,
+          "content": "buyer: sent by neil"
+      },
+      "unreadCount": 1
+    }
   ]
 }
