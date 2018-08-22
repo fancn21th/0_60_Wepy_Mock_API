@@ -1,3 +1,4 @@
 {
-  "/business/message_group/list/unread": "/unreadMessages"
+  "/business/message_group/list/unread": "/unreadMessages",
+  "/business/login": "/login"
 }
