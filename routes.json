@@ -1,4 +1,4 @@
 {
   "/business/message_group/list/unread": "/unreadMessages",
-  "/business/login": "/login"
+  "/business/login?username=:username&password=:password&rememberUsername=:rememberUsername": "/login"
 }
