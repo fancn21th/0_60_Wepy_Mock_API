@@ -1,4 +1,5 @@
 {
-  "/business/message_group/list/unread": "/unreadMessages",
-  "/business/login?username=:username&password=:password&rememberUsername=:rememberUsername": "/login"
+  "/business/message_group/list/unread?pageNumber=:pageNumber": "/unreadMessages",
+  "/business/login?username=:username&password=:password&rememberUsername=:rememberUsername": "/login",
+  "/business/quotation_request/assign?pageNumber=:pageNumber": "/recommendedRequest"
 }

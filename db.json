@@ -11,7 +11,7 @@
         "username": "99vmwj8vb",
         "email": "neil.wang@okchem.com",
         "companyName": "来易网络科技（武汉）有限公司",
-        "displayName": "Neil Wang"
+        "displayName": "1 Neil Wang"
       },
       "user2": {
         "id": 5,
@@ -51,7 +51,7 @@
         "username": "99vmwj8vb",
         "email": "neil.wang@okchem.com",
         "companyName": "来易网络科技（武汉）有限公司",
-        "displayName": "Neil Wang"
+        "displayName": "2 Neil Wang"
       },
       "user2": {
         "id": 5,
@@ -91,7 +91,7 @@
         "username": "99vmwj8vb",
         "email": "neil.wang@okchem.com",
         "companyName": "来易网络科技（武汉）有限公司",
-        "displayName": "Neil Wang"
+        "displayName": "3 Neil Wang"
       },
       "user2": {
         "id": 5,
@@ -131,7 +131,7 @@
         "username": "99vmwj8vb",
         "email": "neil.wang@okchem.com",
         "companyName": "来易网络科技（武汉）有限公司",
-        "displayName": "Neil Wang"
+        "displayName": "4 Neil Wang"
       },
       "user2": {
         "id": 5,
@@ -171,7 +171,7 @@
         "username": "99vmwj8vb",
         "email": "neil.wang@okchem.com",
         "companyName": "来易网络科技（武汉）有限公司",
-        "displayName": "Neil Wang"
+        "displayName": "5 Neil Wang"
       },
       "user2": {
         "id": 5,
@@ -217,5 +217,124 @@
     "businessCompanyName": null,
     "x-mp-sid": "4f992684-e64c-444d-8ac5-4d51d9a35dda",
     "storeCode": "OKCHEM"
-  }
+  },
+  "recommendedRequest": [
+    {
+      "sourceId": 20051,
+      "createdDate": 1533721417000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "HKG",
+      "countryName": "Hong Kong",
+      "quantity": 656.000000,
+      "quantityUnit": "MT",
+      "whenToBuy": "2018-3",
+      "quoteLeft": 6,
+      "isQuoted": null,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20201,
+      "createdDate": 1532084786000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "CHN",
+      "countryName": "China",
+      "quantity": 100.000000,
+      "quantityUnit": "G",
+      "whenToBuy": "2018-11",
+      "quoteLeft": 0,
+      "isQuoted": false,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20051,
+      "createdDate": 1533721417000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "HKG",
+      "countryName": "Hong Kong",
+      "quantity": 656.000000,
+      "quantityUnit": "MT",
+      "whenToBuy": "2018-3",
+      "quoteLeft": 6,
+      "isQuoted": null,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20201,
+      "createdDate": 1532084786000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "CHN",
+      "countryName": "China",
+      "quantity": 100.000000,
+      "quantityUnit": "G",
+      "whenToBuy": "2018-11",
+      "quoteLeft": 0,
+      "isQuoted": false,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20051,
+      "createdDate": 1533721417000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "HKG",
+      "countryName": "Hong Kong",
+      "quantity": 656.000000,
+      "quantityUnit": "MT",
+      "whenToBuy": "2018-3",
+      "quoteLeft": 6,
+      "isQuoted": null,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20201,
+      "createdDate": 1532084786000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "CHN",
+      "countryName": "China",
+      "quantity": 100.000000,
+      "quantityUnit": "G",
+      "whenToBuy": "2018-11",
+      "quoteLeft": 0,
+      "isQuoted": false,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20051,
+      "createdDate": 1533721417000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "HKG",
+      "countryName": "Hong Kong",
+      "quantity": 656.000000,
+      "quantityUnit": "MT",
+      "whenToBuy": "2018-3",
+      "quoteLeft": 6,
+      "isQuoted": null,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20201,
+      "createdDate": 1532084786000,
+      "productName": "Ferrous Gluconate Hydrate",
+      "country": "CHN",
+      "countryName": "China",
+      "quantity": 100.000000,
+      "quantityUnit": "G",
+      "whenToBuy": "2018-11",
+      "quoteLeft": 0,
+      "isQuoted": false,
+      "isRecommended": null
+    },
+    {
+      "sourceId": 20052,
+      "createdDate": 1532000569000,
+      "productName": "klkppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "country": "HKG",
+      "countryName": "Hong Kong",
+      "quantity": 56.000000,
+      "quantityUnit": "MT",
+      "whenToBuy": "2018-10",
+      "quoteLeft": 3,
+      "isQuoted": false,
+      "isRecommended": null
+    }
+  ]
 }
