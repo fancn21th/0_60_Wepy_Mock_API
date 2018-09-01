@@ -1,5 +1,9 @@
 {
   "/business/message_group/list/unread?pageNumber=:pageNumber": "/unreadMessages",
   "/business/login?username=:username&password=:password&rememberUsername=:rememberUsername": "/login",
-  "/business/quotation_request/assign?pageNumber=:pageNumber": "/recommendedRequest"
+  "/business/quotation_request/assign?pageNumber=:pageNumber": "/recommendedRequest",
+  "/common/enum/currency": "/currency",
+  "/common/enum/unit": "/unit",
+  "/common/enum/payment-term": "/payment-term",
+  "/common/enum/ship-mode": "/ship-mode"
 }

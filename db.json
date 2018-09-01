@@ -336,5 +336,153 @@
       "isQuoted": false,
       "isRecommended": null
     }
+  ],
+  "currency": [
+    {
+      "code": "USD",
+      "value": "USD"
+    },
+    {
+      "code": "EUR",
+      "value": "EUR"
+    },
+    {
+      "code": "RMB",
+      "value": "RMB"
+    },
+    {
+      "code": "AUD",
+      "value": "AUD"
+    },
+    {
+      "code": "CAD",
+      "value": "CAD"
+    },
+    {
+      "code": "CZK",
+      "value": "CZK"
+    },
+    {
+      "code": "DKK",
+      "value": "DKK"
+    },
+    {
+      "code": "HKD",
+      "value": "HKD"
+    },
+    {
+      "code": "HUF",
+      "value": "HUF"
+    },
+    {
+      "code": "NZD",
+      "value": "NZD"
+    },
+    {
+      "code": "NOK",
+      "value": "NOK"
+    },
+    {
+      "code": "PLN",
+      "value": "PLN"
+    },
+    {
+      "code": "GBP",
+      "value": "GBP"
+    },
+    {
+      "code": "SGD",
+      "value": "SGD"
+    },
+    {
+      "code": "SEK",
+      "value": "SEK"
+    },
+    {
+      "code": "CHF",
+      "value": "CHF"
+    },
+    {
+      "code": "JPY",
+      "value": "JPY"
+    }
+  ],
+  "unit": [
+    {
+      "code": "MT",
+      "value": "MT"
+    },
+    {
+      "code": "KG",
+      "value": "KG"
+    },
+    {
+      "code": "G",
+      "value": "G"
+    },
+    {
+      "code": "KL",
+      "value": "KL"
+    },
+    {
+      "code": "L",
+      "value": "L"
+    },
+    {
+      "code": "ML",
+      "value": "ML"
+    },
+    {
+      "code": "CARTON",
+      "value": "Carton"
+    },
+    {
+      "code": "PIECE",
+      "value": "Piece"
+    },
+    {
+      "code": "OTHER",
+      "value": "Other"
+    }
+  ],
+  "payment-term": [
+    {
+      "code": "TT",
+      "value": "T/T"
+    },
+    {
+      "code": "LC",
+      "value": "L/C"
+    },
+    {
+      "code": "OA",
+      "value": "O/A"
+    },
+    {
+      "code": "DP",
+      "value": "D/P"
+    },
+    {
+      "code": "DA",
+      "value": "D/A"
+    },
+    {
+      "code": "CAD",
+      "value": "CAD"
+    },
+    {
+      "code": "WESTERN_UNION",
+      "value": "Western Union"
+    }
+  ],
+  "ship-mode": [
+    {
+      "code": "BYSEA",
+      "value": "By Sea"
+    },
+    {
+      "code": "BYAIR",
+      "value": "By Air"
+    }
   ]
 }
